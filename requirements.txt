@@ -1,0 +1,17 @@
+crewai==0.130.0
+crewai-tools==0.47.1
+fastapi==0.110.3
+uvicorn==0.29.0
+python-dotenv==1.0.0
+python-multipart==0.0.9
+openai==1.30.5
+langchain-community==0.2.0
+langchain-core==0.2.0
+pypdf==4.2.0
+pandas==2.2.3
+numpy==2.1.0
+pillow==10.3.0
+pydantic==2.7.1
+sqlalchemy==2.0.30
+celery==5.3.6
+redis==5.0.4
